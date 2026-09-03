@@ -1,1 +1,3 @@
-# RPS-26
+# Vaja RPS
+
+Avtor: Patrik Cvetan
